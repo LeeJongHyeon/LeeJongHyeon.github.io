@@ -7,7 +7,7 @@ title: Hello World
 ---
 
 my github blog first pages.
-'''java
+```java
 String str = "Hellow World";
 System.out.print(str);
-'''
+```
