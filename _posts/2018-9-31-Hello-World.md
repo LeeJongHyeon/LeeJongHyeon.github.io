@@ -8,6 +8,6 @@ title: Hello World
 
 my github blog first pages.
 ```java
-String str = "Hellow World";
+String str = "Hello World";
 System.out.print(str);
 ```
